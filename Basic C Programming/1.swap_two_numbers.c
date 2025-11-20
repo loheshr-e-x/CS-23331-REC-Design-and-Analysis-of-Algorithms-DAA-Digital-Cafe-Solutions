@@ -1,3 +1,10 @@
+/*
+Given two numbers, write a C program to swap the given numbers.
+For example:
+Input Result
+10 20 20 10
+*/
+
 #include<stdio.h>
 int main(){
  int a,b;
